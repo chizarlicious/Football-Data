@@ -1,4 +1,8 @@
 {
+  "_version": {
+    "parser": "b4b3463b6cf196f35be60f1b7bb23b7d88725ce2",
+    "raw": "59ba588bd603c7d963a62c7bfb7273bf4f6f9ba3"
+  },
   "away team": "PHI",
   "betting": {
     "over under": 41.0,
@@ -3470,10 +3474,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "away",
+        "offense": "home",
         "time": 3492,
         "yards to first down": 10,
-        "yards to goal": 43
+        "yards to goal": 57
       }
     },
     {
@@ -3487,10 +3491,10 @@
       },
       "state": {
         "down": 2,
-        "offense": "away",
+        "offense": "home",
         "time": 3498,
         "yards to first down": 10,
-        "yards to goal": 43
+        "yards to goal": 57
       }
     },
     {
@@ -3504,10 +3508,10 @@
       },
       "state": {
         "down": 3,
-        "offense": "away",
+        "offense": "home",
         "time": 3502,
         "yards to first down": 10,
-        "yards to goal": 43
+        "yards to goal": 57
       }
     },
     {
@@ -3520,7 +3524,7 @@
         "home": 32
       },
       "state": {
-        "offense": "away",
+        "offense": "home",
         "time": 3508
       }
     },
@@ -3535,10 +3539,10 @@
       },
       "state": {
         "down": 4,
-        "offense": "away",
+        "offense": "home",
         "time": 3508,
         "yards to first down": 10,
-        "yards to goal": 43
+        "yards to goal": 57
       }
     },
     {
@@ -3552,10 +3556,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "home",
+        "offense": "away",
         "time": 3514,
         "yards to first down": 10,
-        "yards to goal": 57
+        "yards to goal": 43
       }
     },
     {
@@ -3568,7 +3572,7 @@
         "home": 32
       },
       "state": {
-        "offense": "home",
+        "offense": "away",
         "time": 3516
       }
     },
@@ -3583,10 +3587,10 @@
       },
       "state": {
         "down": 2,
-        "offense": "home",
+        "offense": "away",
         "time": 3516,
         "yards to first down": 11,
-        "yards to goal": 56
+        "yards to goal": 44
       }
     },
     {
@@ -3600,10 +3604,10 @@
       },
       "state": {
         "down": 3,
-        "offense": "home",
+        "offense": "away",
         "time": 3558,
         "yards to first down": 12,
-        "yards to goal": 55
+        "yards to goal": 45
       }
     }
   ],

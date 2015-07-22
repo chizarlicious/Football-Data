@@ -1,4 +1,8 @@
 {
+  "_version": {
+    "parser": "1084bd58c6eaaf3fc2c979ec1fca477cb6269b17",
+    "raw": "59ba588bd603c7d963a62c7bfb7273bf4f6f9ba3"
+  },
   "away team": "NE",
   "betting": {
     "over under": 37.5,
@@ -513,7 +517,7 @@
           {
             "accepted": false,
             "name": "Chop Block",
-            "offender": "NWE",
+            "offender": "team",
             "team": "away"
           }
         ]
@@ -1748,7 +1752,7 @@
             "accepted": true,
             "name": "Offensive Holding",
             "offender": "Tony George",
-            "team": "home",
+            "team": "away",
             "yards": 10
           }
         ]

@@ -1,4 +1,8 @@
 {
+  "_version": {
+    "parser": "1084bd58c6eaaf3fc2c979ec1fca477cb6269b17",
+    "raw": "59ba588bd603c7d963a62c7bfb7273bf4f6f9ba3"
+  },
   "away team": "CHI",
   "betting": {
     "over under": 36.5,
@@ -175,8 +179,8 @@
           {
             "accepted": true,
             "name": "Delay of Game",
-            "offender": "TAM",
-            "team": null,
+            "offender": "team",
+            "team": "home",
             "yards": 5
           }
         ]
@@ -226,7 +230,7 @@
             "accepted": true,
             "name": "Offensive Holding",
             "offender": "Raymond Austin",
-            "team": "home",
+            "team": "away",
             "yards": 10
           }
         ]

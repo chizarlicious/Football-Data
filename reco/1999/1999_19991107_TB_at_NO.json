@@ -1,4 +1,8 @@
 {
+  "_version": {
+    "parser": "1084bd58c6eaaf3fc2c979ec1fca477cb6269b17",
+    "raw": "59ba588bd603c7d963a62c7bfb7273bf4f6f9ba3"
+  },
   "away team": "TB",
   "betting": {
     "over under": 33.5,
@@ -1358,8 +1362,8 @@
           {
             "accepted": true,
             "name": "Offensive Holding",
-            "offender": "TAM",
-            "team": "home",
+            "offender": "team",
+            "team": "away",
             "yards": 10
           }
         ]
@@ -2006,8 +2010,8 @@
           {
             "accepted": true,
             "name": "Delay of Game",
-            "offender": "TAM",
-            "team": null,
+            "offender": "team",
+            "team": "away",
             "yards": 5
           }
         ]
@@ -2912,8 +2916,8 @@
           {
             "accepted": true,
             "name": "Offensive Offside (Offsetting) (no play)",
-            "offender": "TAM",
-            "team": "home"
+            "offender": "team",
+            "team": "away"
           }
         ]
       },

@@ -1,4 +1,8 @@
 {
+  "_version": {
+    "parser": "b12822da9e5d2ad053b138d75ce36796b4d18a21",
+    "raw": "b17907f7b9f2d692a0628a447e7883e3429b81ac"
+  },
   "away team": "TB",
   "betting": {
     "over under": 39.0,
@@ -637,8 +641,8 @@
           {
             "accepted": true,
             "name": "Illegal Substitution",
-            "offender": "",
-            "team": null,
+            "offender": "Demar Dotson",
+            "team": "away",
             "yards": 5
           }
         ]

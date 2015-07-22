@@ -1,4 +1,8 @@
 {
+  "_version": {
+    "parser": "1084bd58c6eaaf3fc2c979ec1fca477cb6269b17",
+    "raw": "59ba588bd603c7d963a62c7bfb7273bf4f6f9ba3"
+  },
   "away team": "HOU",
   "betting": {
     "over under": 51.0,
@@ -2239,7 +2243,7 @@
           {
             "accepted": true,
             "name": "Defensive 12 On-field",
-            "offender": "NWE",
+            "offender": "team",
             "team": "home",
             "yards": 1
           }

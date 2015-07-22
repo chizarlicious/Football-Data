@@ -1,4 +1,8 @@
 {
+  "_version": {
+    "parser": "1084bd58c6eaaf3fc2c979ec1fca477cb6269b17",
+    "raw": "59ba588bd603c7d963a62c7bfb7273bf4f6f9ba3"
+  },
   "away team": "KC",
   "betting": {
     "over under": 38.5,
@@ -25,7 +29,7 @@
             "accepted": true,
             "name": "Offensive Holding (Offsetting)",
             "offender": "Kenny Bynum",
-            "team": null
+            "team": "home"
           },
           {
             "accepted": true,
@@ -687,7 +691,7 @@
             "accepted": true,
             "name": "Chop Block",
             "offender": "Kenny Bynum",
-            "team": "away",
+            "team": "home",
             "yards": 9
           }
         ]
@@ -1901,8 +1905,8 @@
           {
             "accepted": true,
             "name": "Unnecessary Roughness",
-            "offender": "KAN",
-            "team": null,
+            "offender": "team",
+            "team": "away",
             "yards": 15
           }
         ]
@@ -2013,7 +2017,7 @@
           {
             "accepted": true,
             "name": "Offensive Holding",
-            "offender": "KAN",
+            "offender": "team",
             "team": "away",
             "yards": 10
           }
@@ -2380,7 +2384,7 @@
           {
             "accepted": true,
             "name": "Offensive Holding",
-            "offender": "SDG",
+            "offender": "team",
             "team": "home",
             "yards": 10
           }
@@ -2547,8 +2551,8 @@
           {
             "accepted": true,
             "name": "Face Mask (15 Yards)",
-            "offender": "SDG",
-            "team": null,
+            "offender": "team",
+            "team": "home",
             "yards": 15
           }
         ]
@@ -2610,8 +2614,8 @@
           {
             "accepted": true,
             "name": "Illegal Substitution",
-            "offender": "KAN",
-            "team": null,
+            "offender": "team",
+            "team": "away",
             "yards": 5
           }
         ]

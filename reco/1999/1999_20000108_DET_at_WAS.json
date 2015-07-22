@@ -1,4 +1,8 @@
 {
+  "_version": {
+    "parser": "c734f6825dca35468f303f225fff1fd826be39d5",
+    "raw": "59ba588bd603c7d963a62c7bfb7273bf4f6f9ba3"
+  },
   "away team": "DET",
   "betting": {
     "over under": 46.0,
@@ -489,7 +493,7 @@
             "accepted": true,
             "name": "Offensive Holding",
             "offender": "Kevin O'Neill",
-            "team": "home",
+            "team": "away",
             "yards": 10
           }
         ]

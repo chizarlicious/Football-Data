@@ -1,4 +1,8 @@
 {
+  "_version": {
+    "parser": "1084bd58c6eaaf3fc2c979ec1fca477cb6269b17",
+    "raw": "59ba588bd603c7d963a62c7bfb7273bf4f6f9ba3"
+  },
   "away team": "KC",
   "betting": {
     "over under": 47.0,
@@ -2011,7 +2015,7 @@
       }
     },
     {
-      "number": 106,
+      "number": 104,
       "play": {
         "type": "kick off"
       },
@@ -2026,7 +2030,7 @@
       }
     },
     {
-      "number": 107,
+      "number": 105,
       "play": {
         "type": "run"
       },
@@ -2043,7 +2047,7 @@
       }
     },
     {
-      "number": 108,
+      "number": 106,
       "play": {
         "type": "complete pass"
       },
@@ -2060,7 +2064,7 @@
       }
     },
     {
-      "number": 109,
+      "number": 107,
       "play": {
         "type": "complete pass"
       },
@@ -2077,7 +2081,7 @@
       }
     },
     {
-      "number": 110,
+      "number": 108,
       "play": {
         "type": "complete pass"
       },
@@ -2094,7 +2098,7 @@
       }
     },
     {
-      "number": 111,
+      "number": 109,
       "play": {
         "type": "complete pass"
       },
@@ -2111,7 +2115,7 @@
       }
     },
     {
-      "number": 112,
+      "number": 110,
       "play": {
         "type": "run"
       },
@@ -2128,7 +2132,7 @@
       }
     },
     {
-      "number": 113,
+      "number": 111,
       "play": {
         "type": "run"
       },
@@ -2145,7 +2149,7 @@
       }
     },
     {
-      "number": 114,
+      "number": 112,
       "play": {
         "type": "run"
       },
@@ -2162,7 +2166,7 @@
       }
     },
     {
-      "number": 115,
+      "number": 113,
       "play": {
         "type": "incomplete pass"
       },
@@ -2186,7 +2190,7 @@
       ]
     },
     {
-      "number": 116,
+      "number": 114,
       "play": {
         "type": "complete pass"
       },
@@ -2203,7 +2207,7 @@
       }
     },
     {
-      "number": 117,
+      "number": 115,
       "play": {
         "type": "run"
       },
@@ -2220,7 +2224,7 @@
       }
     },
     {
-      "number": 118,
+      "number": 116,
       "play": {
         "type": "complete pass"
       },
@@ -2237,7 +2241,7 @@
       }
     },
     {
-      "number": 119,
+      "number": 117,
       "play": {
         "type": "run"
       },
@@ -2254,7 +2258,7 @@
       }
     },
     {
-      "number": 120,
+      "number": 118,
       "play": {
         "type": "run"
       },
@@ -2271,7 +2275,7 @@
       }
     },
     {
-      "number": 121,
+      "number": 119,
       "play": {
         "type": "run"
       },
@@ -2288,7 +2292,7 @@
       }
     },
     {
-      "number": 122,
+      "number": 120,
       "play": {
         "type": "run"
       },
@@ -2305,7 +2309,7 @@
       }
     },
     {
-      "number": 123,
+      "number": 121,
       "play": {
         "type": "incomplete pass"
       },
@@ -2322,7 +2326,7 @@
       }
     },
     {
-      "number": 124,
+      "number": 122,
       "play": {
         "scoring": {
           "team": "home",
@@ -2343,7 +2347,7 @@
       }
     },
     {
-      "number": 125,
+      "number": 123,
       "play": {
         "type": "kick off"
       },
@@ -2358,7 +2362,7 @@
       }
     },
     {
-      "number": 126,
+      "number": 124,
       "play": {
         "type": "complete pass"
       },
@@ -2375,7 +2379,7 @@
       }
     },
     {
-      "number": 127,
+      "number": 125,
       "play": {
         "type": "complete pass"
       },
@@ -2392,7 +2396,7 @@
       }
     },
     {
-      "number": 128,
+      "number": 126,
       "play": {
         "type": "sack"
       },
@@ -2409,7 +2413,7 @@
       }
     },
     {
-      "number": 129,
+      "number": 127,
       "play": {
         "type": "complete pass"
       },
@@ -2426,7 +2430,7 @@
       }
     },
     {
-      "number": 130,
+      "number": 128,
       "play": {
         "type": "incomplete pass"
       },
@@ -2443,7 +2447,7 @@
       }
     },
     {
-      "number": 131,
+      "number": 129,
       "play": {
         "type": "complete pass"
       },
@@ -2460,7 +2464,7 @@
       }
     },
     {
-      "number": 132,
+      "number": 130,
       "play": {
         "type": "incomplete pass"
       },
@@ -2477,7 +2481,7 @@
       }
     },
     {
-      "number": 133,
+      "number": 131,
       "play": {
         "type": "complete pass"
       },
@@ -2494,7 +2498,7 @@
       }
     },
     {
-      "number": 134,
+      "number": 132,
       "play": {
         "type": "complete pass"
       },
@@ -2511,7 +2515,7 @@
       }
     },
     {
-      "number": 135,
+      "number": 133,
       "play": {
         "type": "incomplete pass"
       },
@@ -2535,7 +2539,7 @@
       ]
     },
     {
-      "number": 136,
+      "number": 134,
       "play": {
         "type": "incomplete pass"
       },
@@ -2552,7 +2556,7 @@
       }
     },
     {
-      "number": 137,
+      "number": 135,
       "play": {
         "type": "run"
       },
@@ -2569,7 +2573,7 @@
       }
     },
     {
-      "number": 138,
+      "number": 136,
       "play": {
         "type": "incomplete pass"
       },
@@ -2586,7 +2590,7 @@
       }
     },
     {
-      "number": 139,
+      "number": 137,
       "play": {
         "type": "punt"
       },
@@ -2603,7 +2607,7 @@
       }
     },
     {
-      "number": 140,
+      "number": 138,
       "play": {
         "type": "complete pass"
       },
@@ -2620,7 +2624,7 @@
       }
     },
     {
-      "number": 141,
+      "number": 139,
       "play": {
         "type": "sack"
       },
@@ -2637,7 +2641,7 @@
       }
     },
     {
-      "number": 142,
+      "number": 140,
       "play": {
         "type": "complete pass"
       },
@@ -2654,7 +2658,7 @@
       }
     },
     {
-      "number": 143,
+      "number": 141,
       "play": {
         "type": "complete pass"
       },
@@ -2671,7 +2675,7 @@
       }
     },
     {
-      "number": 144,
+      "number": 142,
       "play": {
         "type": "complete pass"
       },
@@ -2688,7 +2692,7 @@
       }
     },
     {
-      "number": 145,
+      "number": 143,
       "play": {
         "type": "incomplete pass"
       },
@@ -2705,7 +2709,7 @@
       }
     },
     {
-      "number": 146,
+      "number": 144,
       "play": {
         "type": "incomplete pass"
       },
@@ -2722,7 +2726,7 @@
       }
     },
     {
-      "number": 147,
+      "number": 145,
       "penalty": {
         "no play": true,
         "penalties": [
@@ -2751,7 +2755,7 @@
       }
     },
     {
-      "number": 148,
+      "number": 146,
       "play": {
         "type": "incomplete pass"
       },
@@ -2768,7 +2772,7 @@
       }
     },
     {
-      "number": 149,
+      "number": 147,
       "play": {
         "type": "run"
       },
@@ -2785,7 +2789,7 @@
       }
     },
     {
-      "number": 150,
+      "number": 148,
       "play": {
         "type": "complete pass"
       },
@@ -2802,7 +2806,7 @@
       }
     },
     {
-      "number": 151,
+      "number": 149,
       "play": {
         "type": "complete pass"
       },
@@ -2819,7 +2823,7 @@
       }
     },
     {
-      "number": 152,
+      "number": 150,
       "play": {
         "type": "run"
       },
@@ -2836,7 +2840,7 @@
       }
     },
     {
-      "number": 153,
+      "number": 151,
       "play": {
         "type": "timeout"
       },
@@ -2850,7 +2854,7 @@
       }
     },
     {
-      "number": 154,
+      "number": 152,
       "play": {
         "type": "run"
       },
@@ -2867,7 +2871,7 @@
       }
     },
     {
-      "number": 155,
+      "number": 153,
       "play": {
         "type": "timeout"
       },
@@ -2881,7 +2885,7 @@
       }
     },
     {
-      "number": 156,
+      "number": 154,
       "play": {
         "type": "run"
       },
@@ -2898,7 +2902,7 @@
       }
     },
     {
-      "number": 157,
+      "number": 155,
       "play": {
         "type": "run"
       },
@@ -2915,7 +2919,7 @@
       }
     },
     {
-      "number": 158,
+      "number": 156,
       "play": {
         "type": "run"
       },
@@ -2932,7 +2936,7 @@
       }
     },
     {
-      "number": 159,
+      "number": 157,
       "play": {
         "type": "timeout"
       },
@@ -2946,7 +2950,7 @@
       }
     },
     {
-      "number": 160,
+      "number": 158,
       "play": {
         "type": "run"
       },
@@ -2963,7 +2967,7 @@
       }
     },
     {
-      "number": 161,
+      "number": 159,
       "play": {
         "type": "run"
       },
@@ -2980,7 +2984,7 @@
       }
     },
     {
-      "number": 162,
+      "number": 160,
       "play": {
         "type": "run"
       },
@@ -2997,7 +3001,7 @@
       }
     },
     {
-      "number": 163,
+      "number": 161,
       "play": {
         "type": "run"
       },
@@ -3014,15 +3018,15 @@
       }
     },
     {
-      "number": 164,
+      "number": 162,
       "penalty": {
         "no play": false,
         "penalties": [
           {
             "accepted": true,
             "name": "Illegal Shift",
-            "offender": "NWE",
-            "team": null,
+            "offender": "team",
+            "team": "home",
             "yards": 5
           },
           {
@@ -3049,7 +3053,7 @@
       }
     },
     {
-      "number": 165,
+      "number": 163,
       "play": {
         "type": "run"
       },
@@ -3066,7 +3070,7 @@
       }
     },
     {
-      "number": 166,
+      "number": 164,
       "play": {
         "scoring": {
           "team": "home",
@@ -3087,7 +3091,7 @@
       }
     },
     {
-      "number": 167,
+      "number": 165,
       "play": {
         "scoring": {
           "team": "home",
@@ -3105,7 +3109,7 @@
       }
     },
     {
-      "number": 168,
+      "number": 166,
       "play": {
         "type": "kick off"
       },
@@ -3120,7 +3124,7 @@
       }
     },
     {
-      "number": 169,
+      "number": 167,
       "play": {
         "type": "run"
       },
@@ -3137,7 +3141,7 @@
       }
     },
     {
-      "number": 170,
+      "number": 168,
       "play": {
         "type": "run"
       },

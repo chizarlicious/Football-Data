@@ -1,4 +1,8 @@
 {
+  "_version": {
+    "parser": "b12822da9e5d2ad053b138d75ce36796b4d18a21",
+    "raw": "87a65eebe7f21aa431bbddd4667aa798b64bfe67"
+  },
   "away team": "GB",
   "betting": {
     "over under": 43.5,
@@ -756,8 +760,8 @@
           {
             "accepted": false,
             "name": "Illegal Formation",
-            "offender": "",
-            "team": null
+            "offender": "Demar Dotson",
+            "team": "home"
           }
         ]
       },
@@ -1351,7 +1355,7 @@
           {
             "accepted": false,
             "name": "Defensive 12 On-field",
-            "offender": "TAM",
+            "offender": "team",
             "team": "home"
           }
         ]

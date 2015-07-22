@@ -1,4 +1,8 @@
 {
+  "_version": {
+    "parser": "1084bd58c6eaaf3fc2c979ec1fca477cb6269b17",
+    "raw": "59ba588bd603c7d963a62c7bfb7273bf4f6f9ba3"
+  },
   "away team": "NE",
   "betting": {
     "over under": 55.5,
@@ -1369,7 +1373,7 @@
           {
             "accepted": true,
             "name": "Defensive 12 On-field",
-            "offender": "NWE",
+            "offender": "team",
             "team": "away",
             "yards": 5
           }

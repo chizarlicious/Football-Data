@@ -1,4 +1,8 @@
 {
+  "_version": {
+    "parser": "b4b3463b6cf196f35be60f1b7bb23b7d88725ce2",
+    "raw": "59ba588bd603c7d963a62c7bfb7273bf4f6f9ba3"
+  },
   "away team": "SD",
   "betting": {
     "over under": 53.0,
@@ -1882,10 +1886,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "home",
+        "offense": "away",
         "time": 2191,
         "yards to first down": 10,
-        "yards to goal": 53
+        "yards to goal": 47
       }
     },
     {
@@ -1899,10 +1903,10 @@
       },
       "state": {
         "down": 2,
-        "offense": "home",
+        "offense": "away",
         "time": 2191,
         "yards to first down": 10,
-        "yards to goal": 53
+        "yards to goal": 47
       }
     },
     {
@@ -1916,10 +1920,10 @@
       },
       "state": {
         "down": 3,
-        "offense": "home",
+        "offense": "away",
         "time": 2235,
         "yards to first down": 3,
-        "yards to goal": 60
+        "yards to goal": 40
       }
     },
     {
@@ -1933,10 +1937,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "home",
+        "offense": "away",
         "time": 2270,
         "yards to first down": 10,
-        "yards to goal": 69
+        "yards to goal": 31
       }
     },
     {
@@ -1950,10 +1954,10 @@
       },
       "state": {
         "down": 2,
-        "offense": "home",
+        "offense": "away",
         "time": 2314,
         "yards to first down": 12,
-        "yards to goal": 67
+        "yards to goal": 33
       }
     },
     {
@@ -1967,10 +1971,10 @@
       },
       "state": {
         "down": 3,
-        "offense": "home",
+        "offense": "away",
         "time": 2320,
         "yards to first down": 12,
-        "yards to goal": 67
+        "yards to goal": 33
       }
     },
     {
@@ -1984,10 +1988,10 @@
       },
       "state": {
         "down": 1,
-        "offense": "home",
+        "offense": "away",
         "time": 2363,
         "yards to first down": 3,
-        "yards to goal": 97
+        "yards to goal": 3
       }
     },
     {
@@ -2001,10 +2005,10 @@
       },
       "state": {
         "down": 2,
-        "offense": "home",
+        "offense": "away",
         "time": 2367,
         "yards to first down": 3,
-        "yards to goal": 97
+        "yards to goal": 3
       }
     },
     {
@@ -2017,7 +2021,7 @@
         "home": 24
       },
       "state": {
-        "offense": "home",
+        "offense": "away",
         "time": 2398
       }
     },
@@ -2032,10 +2036,10 @@
       },
       "state": {
         "down": 3,
-        "offense": "home",
+        "offense": "away",
         "time": 2398,
         "yards to first down": 4,
-        "yards to goal": 96
+        "yards to goal": 4
       }
     },
     {
@@ -2053,10 +2057,10 @@
       },
       "state": {
         "down": 4,
-        "offense": "home",
+        "offense": "away",
         "time": 2403,
         "yards to first down": 4,
-        "yards to goal": 96
+        "yards to goal": 4
       }
     },
     {
@@ -2950,7 +2954,7 @@
       }
     },
     {
-      "number": 165,
+      "number": 163,
       "play": {
         "type": "kick off"
       },
@@ -2965,7 +2969,7 @@
       }
     },
     {
-      "number": 166,
+      "number": 164,
       "play": {
         "type": "run"
       },
@@ -2982,7 +2986,7 @@
       }
     },
     {
-      "number": 167,
+      "number": 165,
       "play": {
         "type": "run"
       },
@@ -2999,7 +3003,7 @@
       }
     },
     {
-      "number": 168,
+      "number": 166,
       "play": {
         "type": "run"
       },
@@ -3016,7 +3020,7 @@
       }
     },
     {
-      "number": 169,
+      "number": 167,
       "play": {
         "type": "run"
       },

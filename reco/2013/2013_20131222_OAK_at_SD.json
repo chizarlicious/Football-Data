@@ -1,4 +1,8 @@
 {
+  "_version": {
+    "parser": "c734f6825dca35468f303f225fff1fd826be39d5",
+    "raw": "59ba588bd603c7d963a62c7bfb7273bf4f6f9ba3"
+  },
   "away team": "OAK",
   "betting": {
     "spread": -10.0,
@@ -2342,7 +2346,7 @@
             "accepted": false,
             "name": "Defensive Holding",
             "offender": "Mychal Rivera",
-            "team": "away"
+            "team": "home"
           }
         ]
       },

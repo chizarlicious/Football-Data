@@ -1,4 +1,8 @@
 {
+  "_version": {
+    "parser": "cf2b5e823ab80be88fc71a233bb8bad4f8659550",
+    "raw": "59ba588bd603c7d963a62c7bfb7273bf4f6f9ba3"
+  },
   "away team": "SEA",
   "betting": {
     "over under": 43.5,
@@ -3634,7 +3638,7 @@
       }
     },
     {
-      "number": 190,
+      "number": 188,
       "play": {
         "type": "kick off"
       },
@@ -3649,7 +3653,7 @@
       }
     },
     {
-      "number": 191,
+      "number": 189,
       "play": {
         "type": "complete pass"
       },
@@ -3666,7 +3670,7 @@
       }
     },
     {
-      "number": 192,
+      "number": 190,
       "play": {
         "type": "timeout"
       },
@@ -3680,7 +3684,7 @@
       }
     },
     {
-      "number": 193,
+      "number": 191,
       "play": {
         "type": "complete pass"
       },
@@ -3697,7 +3701,7 @@
       }
     },
     {
-      "number": 194,
+      "number": 192,
       "play": {
         "type": "incomplete pass"
       },
@@ -3714,7 +3718,7 @@
       }
     },
     {
-      "number": 195,
+      "number": 193,
       "play": {
         "type": "incomplete pass"
       },
@@ -3738,7 +3742,7 @@
       ]
     },
     {
-      "number": 196,
+      "number": 194,
       "play": {
         "type": "kneel"
       },

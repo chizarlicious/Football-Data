@@ -1,4 +1,8 @@
 {
+  "_version": {
+    "parser": "c734f6825dca35468f303f225fff1fd826be39d5",
+    "raw": "59ba588bd603c7d963a62c7bfb7273bf4f6f9ba3"
+  },
   "away team": "CIN",
   "betting": {
     "over under": 42.5,
@@ -34,7 +38,7 @@
             "accepted": true,
             "name": "Offensive Holding",
             "offender": "Frostee Rucker",
-            "team": null,
+            "team": "away",
             "yards": 10
           }
         ]
@@ -2296,7 +2300,13 @@
         "time": 2469,
         "yards to first down": 10,
         "yards to goal": 63
-      }
+      },
+      "turnovers": [
+        {
+          "by": "away",
+          "type": "muffed catch"
+        }
+      ]
     },
     {
       "number": 120,

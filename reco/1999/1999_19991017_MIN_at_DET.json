@@ -1,4 +1,8 @@
 {
+  "_version": {
+    "parser": "c734f6825dca35468f303f225fff1fd826be39d5",
+    "raw": "59ba588bd603c7d963a62c7bfb7273bf4f6f9ba3"
+  },
   "away team": "MIN",
   "betting": {
     "over under": 45.0,
@@ -25,7 +29,7 @@
             "accepted": true,
             "name": "Offensive Holding",
             "offender": "Scott Kowalkowski",
-            "team": null,
+            "team": "home",
             "yards": 10
           }
         ]
@@ -1150,7 +1154,7 @@
             "accepted": true,
             "name": "Offensive Holding",
             "offender": "Chris Walsh",
-            "team": "home",
+            "team": "away",
             "yards": 8
           }
         ]

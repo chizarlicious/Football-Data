@@ -1,4 +1,8 @@
 {
+  "_version": {
+    "parser": "c734f6825dca35468f303f225fff1fd826be39d5",
+    "raw": "59ba588bd603c7d963a62c7bfb7273bf4f6f9ba3"
+  },
   "away team": "DAL",
   "betting": {
     "over under": 45.5,
@@ -958,7 +962,13 @@
         "time": 1364,
         "yards to first down": 4,
         "yards to goal": 55
-      }
+      },
+      "turnovers": [
+        {
+          "by": "home",
+          "type": "muffed catch"
+        }
+      ]
     },
     {
       "number": 52,
@@ -2506,7 +2516,14 @@
         "time": 3175,
         "yards to first down": 5,
         "yards to goal": 72
-      }
+      },
+      "turnovers": [
+        {
+          "by": "away",
+          "recovered": "home",
+          "type": "muffed catch"
+        }
+      ]
     },
     {
       "number": 137,
